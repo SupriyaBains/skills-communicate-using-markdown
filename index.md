@@ -6,3 +6,5 @@
 ###### Header 6
 
 I tried to play around with the headers. 
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
